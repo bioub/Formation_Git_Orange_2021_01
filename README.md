@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Dépot de la formation git
+Dépot de la formation git Orange
 
 ## Commandes de bases
 

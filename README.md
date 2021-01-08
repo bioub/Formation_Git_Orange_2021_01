@@ -3,3 +3,12 @@
 ## Introduction
 
 Dépot de la formation git
+
+## Commandes de bases
+
+- git init
+- git clone
+- git add
+- git commit
+- git status
+- git log
